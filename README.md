@@ -19,7 +19,7 @@
           02. Git clone
         </h2>
         <p>
-          Git clone é uma comando para baixar o código-fonte existente de um repositório remoto
+          Git clone é uma comando para baixar o código-fonte existente de um repositório remoto.
         </p>
         </td>
         <td>

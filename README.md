@@ -1,5 +1,5 @@
 # PrimeiroCommit
-<p>Esse é meu primeiro commit</p>
+<p>Segue a baixo as principais tegs </p>
 
 
 <h1 align="center"> Pesqiosa Dos Principais Comandos</h1>

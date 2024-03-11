@@ -1,4 +1,4 @@
 # PrimeiroCommit
 primeiro teste
 
-<H1>Pesqiosa Principais Comandos</H1>
+<H1 aling="center">Pesqiosa Principais Comandos</H1>
